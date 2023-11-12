@@ -4,14 +4,11 @@
 
 ## Table of Contents
 
+- [Screenshots](#screenshots)
 - [Description](#description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Description
