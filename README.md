@@ -34,12 +34,10 @@ This repository contains the source code for Fatih Mehmet Karagöz's portfolio w
 - Bootstrap Icons
 - Google Fonts
 
-## Getting Started
+## Contact
 
-To run the project locally, follow these steps:
+- Name: Fatih Mehmet Karagöz
+- Email: fmkaragoz@gmail.com
+- LinkedIn: https://www.linkedin.com/in/fatih-karag%C3%B6z-476a08286/
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-portfolio.git
 
